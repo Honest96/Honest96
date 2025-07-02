@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Honest96
-- 👀 I’m interested in becoming a programmer 
-- 🌱 I’m currently learning I.T
-- 💞️ I’m looking to collaborate on Python
+- 👀 I’m interested in improving and becoming a better full-stack developer.
+- 🌱 I’m a BSc (Hons) Computer Science & Software Engineering Graduate.
+- 💞️ I’m looking to expand my programming languages portfolio while getting better in the ones I'm already efficient in.
 - 📫 How to reach me by email @honestndlovu96@gmail.com
 
 <!---
